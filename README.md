@@ -1,3 +1,3 @@
 # angularDump-Project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ypjax6)
+All I find out on Angular is here.
